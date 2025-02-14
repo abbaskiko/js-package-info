@@ -25,8 +25,8 @@
   "homepage": "https://github.com/DesignrKnight/js-package-info#readme",
   "dependencies": {
     "@actions/core": "^1.2.5",
-    "@actions/github": "^4.0.0",
-    "@octokit/core": "^3.1.2",
+    "@actions/github": "^6.0.0",
+    "@octokit/core": "^6.1.4",
     "child_process": "^1.0.2"
   }
 }
